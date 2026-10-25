@@ -1,0 +1,191 @@
+[
+  {
+    "id": "Q17-01",
+    "s": "s17",
+    "t": "vf",
+    "q": "Selon le cours, les résistances des esclaves sont immédiates, nombreuses et parfois fructueuses, car tout système d'oppression rencontre des résistances.",
+    "a": true,
+    "w": "Vrai. Le prof insiste : les résistances commencent dès le début et se font à chaque étape de l'esclavisation. Elles prennent des formes claires (fuite, révolte), subtiles (évitement, insoumission) ou inapparentes (culture, réappropriation, espoir). « Parfois fructueuses » : pense à la communauté de Yanga ou aux personnes conduites vers la liberté par Harriet Tubman."
+  },
+  {
+    "id": "Q17-02",
+    "s": "s17",
+    "t": "qcm",
+    "q": "Dans la classification du cours, à quelle forme de résistance appartiennent la culture, la réappropriation et l'espoir ?",
+    "o": [
+      "Aux résistances claires",
+      "Aux résistances subtiles",
+      "Aux résistances inapparentes",
+      "Aux résistances légales, prévues par le Code noir"
+    ],
+    "a": 2,
+    "w": "Le cours classe les résistances en trois niveaux : claires (fuite, révolte), subtiles (évitement, insoumission) et inapparentes (culture, réappropriation, espoir). Inapparentes, parce qu'elles ne ressemblent pas à une révolte, mais elles empêchent la déshumanisation d'être complète. Le Code noir ne prévoit aucune résistance légale : il sert au contrôle."
+  },
+  {
+    "id": "Q17-03",
+    "s": "s17",
+    "t": "qcm",
+    "q": "Lequel de ces exemples est une résistance « subtile », selon la classification du cours ?",
+    "o": [
+      "L'évitement et l'insoumission dans le travail quotidien",
+      "La fuite vers le Nord par l'Underground Railroad",
+      "La révolte de Tacky en Jamaïque",
+      "La pratique de la calinda à Saint-Domingue"
+    ],
+    "a": 0,
+    "w": "L'évitement et l'insoumission sont subtils : l'esclave résiste sans affrontement ouvert. La fuite et la révolte (Underground Railroad, Tacky) sont des formes claires. La calinda, une danse martiale, relève de la culture, donc des formes inapparentes."
+  },
+  {
+    "id": "Q17-04",
+    "s": "s17",
+    "t": "vf",
+    "q": "Selon le cours, les captifs ne résistent presque pas pendant la traversée de l'Atlantique : les résistances commencent surtout sur les plantations.",
+    "a": false,
+    "w": "Faux. Les résistances se font à chaque étape de l'esclavisation, y compris en mer : les révoltes à bord des navires le prouvent, comme celle de l'Amistad en 1839, où le capitaine Ferrer est tué."
+  },
+  {
+    "id": "Q17-05",
+    "s": "s17",
+    "t": "courte",
+    "q": "Nom du navire où les captifs se révoltent en 1839, révolte au cours de laquelle le capitaine Ferrer est tué.",
+    "acc": ["amistad", "l amistad", "la amistad"],
+    "m": "Réponse modèle : l'Amistad. Cette révolte en mer montre que la résistance existe à chaque étape de l'esclavisation, même pendant la traversée.",
+    "k": ["Amistad", "1839", "révolte à bord"]
+  },
+  {
+    "id": "Q17-06",
+    "s": "s17",
+    "t": "qcm",
+    "q": "Pourquoi la révolte d'Amador (1595) est-elle particulièrement significative quand on la relie à l'établissement de la traite ?",
+    "o": [
+      "Elle met fin à l'esclavage à São Tomé et pousse les Portugais à se tourner vers les Autochtones",
+      "Elle pousse la France à rédiger le Code noir pour encadrer les esclaves",
+      "Elle déclenche la controverse de Valladolid sur la nature des peuples colonisés",
+      "Elle éclate à São Tomé, le « laboratoire » de la société esclavagiste : dès le premier modèle de plantation, l'oppression rencontre la résistance"
+    ],
+    "a": 3,
+    "w": "Amador se révolte en 1595 à São Tomé, l'île où les Portugais ont mis au point le modèle de la plantation esclavagiste. Le lien à faire : la résistance naît en même temps que le système. Les autres choix ne tiennent pas : le cours ne dit pas que cette révolte abolit l'esclavage sur l'île; le Code noir est français et date de 1685, presque un siècle plus tard; la controverse de Valladolid (complément : 1550-1551) est antérieure et porte sur les Autochtones."
+  },
+  {
+    "id": "Q17-07",
+    "s": "s17",
+    "t": "vf",
+    "q": "La révolte de Tacky a eu lieu à São Tomé en 1595.",
+    "a": false,
+    "w": "Faux : tu mélanges deux révoltes. São Tomé en 1595, c'est la révolte d'Amador. La révolte de Tacky a lieu en Jamaïque en 1760-1761. Astuce : Amador est la plus ancienne (XVIe siècle, dans le « laboratoire » portugais), Tacky vient au XVIIIe siècle, dans les Caraïbes."
+  },
+  {
+    "id": "Q17-08",
+    "s": "s17",
+    "t": "vf",
+    "q": "La conspiration de New York (1741) montre que la résistance des esclaves existe aussi en Amérique du Nord, et pas seulement dans les Caraïbes.",
+    "a": true,
+    "w": "Vrai. New York en 1741 s'ajoute à São Tomé (Amador, 1595), à la Jamaïque (Tacky, 1760-1761) et au Mexique (Yanga) : la résistance se retrouve partout où l'esclavage s'installe, même en Amérique du Nord, qui reçoit pourtant beaucoup moins de captifs (environ 0,5 million)."
+  },
+  {
+    "id": "Q17-09",
+    "s": "s17",
+    "t": "qcm",
+    "q": "Qui est Gaspar Yanga ?",
+    "o": [
+      "Le chef de la révolte de 1760-1761 en Jamaïque",
+      "Le chef d'une communauté d'esclaves fugitifs (marrons) au Mexique",
+      "Le capitaine de l'Amistad, tué lors de la révolte de 1839",
+      "Le marchand d'esclaves de Gorée représenté dans les diapos"
+    ],
+    "a": 1,
+    "w": "Gaspar Yanga dirige une communauté de marrons au Mexique; une statue, « El Yanga », lui rend hommage (complément : vers 1570-1609, la colonie espagnole finit par reconnaître sa communauté libre, une résistance fructueuse). Le chef de la révolte en Jamaïque, c'est Tacky; le capitaine tué sur l'Amistad, c'est Ferrer; et le marchand de Gorée illustre l'étape de la vente."
+  },
+  {
+    "id": "Q17-10",
+    "s": "s17",
+    "t": "courte",
+    "q": "Nom donné aux esclaves fugitifs qui forment des communautés libres, souvent dans des camps cachés en forêt, comme celle de Gaspar Yanga.",
+    "acc": ["marrons", "les marrons", "marron", "des marrons", "marronnage", "le marronnage"],
+    "m": "Réponse modèle : les marrons (on parle de marronnage). La fuite est une forme claire de résistance, et les camps de marrons montrent que des esclaves parviennent à vivre libres malgré le système.",
+    "k": ["marrons", "marronnage", "fuite", "communauté libre"]
+  },
+  {
+    "id": "Q17-11",
+    "s": "s17",
+    "t": "qcm",
+    "q": "Quel énoncé sur Harriet Tubman est exact ?",
+    "o": [
+      "Née esclave au Maryland, elle s'échappe en 1849, puis mène 13 missions qui conduisent environ 70 personnes vers la liberté",
+      "Née libre au Canada, elle organise la conspiration de New York en 1741",
+      "Elle mène environ 70 missions qui libèrent 13 000 personnes, puis devient capitaine de l'Amistad",
+      "Elle s'échappe en 1849 vers le Sud, où elle fonde une communauté de marrons au Mexique"
+    ],
+    "a": 0,
+    "w": "Harriet Tubman (1822-1913), née esclave au Maryland, s'échappe en 1849, revient sauver sa famille et mène 13 missions pour environ 70 personnes par l'Underground Railroad, vers le Nord et le Canada. Elle sert ensuite d'éclaireuse et d'espionne pour l'Union pendant la guerre de Sécession, puis milite contre le racisme et pour les droits des femmes. La conspiration de New York (1741) a lieu bien avant sa naissance, « 70 missions et 13 000 personnes » inverse et gonfle les vrais chiffres, et la communauté marronne du Mexique, c'est celle de Yanga."
+  },
+  {
+    "id": "Q17-12",
+    "s": "s17",
+    "t": "vf",
+    "q": "L'Underground Railroad est un véritable chemin de fer souterrain, construit pour transporter les esclaves fugitifs vers le Canada.",
+    "a": false,
+    "w": "Faux : malgré son nom, ce n'est ni un train ni un tunnel. C'est un réseau de routes secrètes et de refuges qui permet aux esclaves fugitifs de rejoindre les États du Nord et le Canada. Harriet Tubman en est la figure la plus célèbre."
+  },
+  {
+    "id": "Q17-13",
+    "s": "s17",
+    "t": "phrase",
+    "q": "Le prof affirme que les résistances « se font à chaque étape de l'esclavisation ». Explique cette idée en une phrase, avec un exemple.",
+    "m": "Les captifs s'opposent à leur sort tout au long du processus : ils se révoltent par exemple pendant la traversée, comme sur l'Amistad en 1839, ou fuient les plantations pour former des communautés de marrons, comme celle de Yanga au Mexique.",
+    "k": ["à chaque étape", "révolte en mer (Amistad, 1839)", "fuite ou marronnage (Yanga)", "exemple précis"]
+  },
+  {
+    "id": "Q17-14",
+    "s": "s17",
+    "t": "courte",
+    "q": "Danse martiale angolaise souvent citée comme une des origines de la capoeira.",
+    "acc": ["ngolo", "n golo", "le ngolo", "le n golo"],
+    "m": "Réponse modèle : le N'golo. Une pratique venue d'Afrique se maintient et se transforme malgré l'esclavage : c'est une résistance culturelle, donc inapparente.",
+    "k": ["N'golo", "Angola", "capoeira", "résistance culturelle"]
+  },
+  {
+    "id": "Q17-15",
+    "s": "s17",
+    "t": "phrase",
+    "q": "Pourquoi le cours considère-t-il la culture (musique, danse, cuisine) comme une forme de résistance ? Réponds en une phrase.",
+    "m": "Parce qu'en gardant et en réinventant leurs musiques, leurs danses (la calinda, le N'golo) et leur cuisine (le barbecue), les esclaves refusent d'être réduits à des « choses » et préservent une identité, une mémoire et un espoir que le système voulait effacer.",
+    "k": ["résistance inapparente", "refus de la déshumanisation", "identité, mémoire, espoir", "exemple : calinda, N'golo ou barbecue"]
+  },
+  {
+    "id": "Q17-16",
+    "s": "s17",
+    "t": "qcm",
+    "q": "Pourquoi le sac d'Ashley est-il présenté en classe comme une forme de résistance ?",
+    "o": [
+      "Parce qu'il contenait un plan d'évasion vers le Nord par l'Underground Railroad",
+      "Parce que ce petit sac (une robe, des pacanes, une tresse de cheveux) préserve l'amour et la mémoire familiale malgré la séparation imposée par la vente",
+      "Parce qu'il a servi de signal secret lors de la conspiration de New York de 1741",
+      "Parce qu'Harriet Tubman l'a brodé pendant la guerre de Sécession pour dénoncer l'esclavage"
+    ],
+    "a": 1,
+    "w": "Rose donne ce sac à sa fille Ashley, vendue à 9 ans en Caroline du Sud : « Il sera rempli de mon amour, toujours ». C'est une résistance inapparente : face à une séparation voulue par le système, une mère transmet amour, mémoire et espoir. L'histoire a été brodée sur le sac en 1921 par Ruth Middleton, petite-fille d'Ashley, et il est exposé au National Museum of African American History and Culture. Il n'a aucun lien avec Tubman ni avec New York."
+  },
+  {
+    "id": "Q17-17",
+    "s": "s17",
+    "t": "phrase",
+    "q": "Quel lien peux-tu faire entre les résistances des esclaves et la mondialisation ? Réponds en une phrase.",
+    "m": "Les résistances montrent que la mondialisation n'est pas seulement subie : de São Tomé (Amador, 1595) à la Jamaïque (Tacky, 1760-1761) et au Mexique (Yanga), les esclaves s'opposent au système partout où il s'installe, et leurs cultures africaines, comme le N'golo, survivent et se transforment (une des origines de la capoeira).",
+    "k": ["la mondialisation n'est pas seulement subie", "résistances dans plusieurs régions", "cultures qui survivent et se transforment", "exemples datés"]
+  },
+  {
+    "id": "Q17-18",
+    "s": "s17",
+    "t": "qcm",
+    "q": "Quel lien peux-tu faire entre les séparations voulues lors des ventes et les résistances des esclaves ?",
+    "o": [
+      "Les séparations servent surtout à répartir les captifs selon le système des castas",
+      "Les séparations sont imposées par l'article 12 du Code noir pour protéger les familles",
+      "Les acheteurs séparent les captifs pour empêcher la solidarité entre eux, celle qui rendrait possibles des résistances collectives",
+      "Les séparations n'ont aucun lien avec le contrôle : elles dépendent seulement du hasard des ventes"
+    ],
+    "a": 2,
+    "w": "À la vente comme à la distribution, l'acheteur priorise la séparation pour éviter la solidarité entre captifs. C'est un contrôle préventif, comme l'article 16 du Code noir qui interdit les attroupements. Les résistances collectives (Amador, Tacky, l'Amistad) montrent pourquoi les maîtres craignent tant cette solidarité. Les castas classent toute la société coloniale espagnole, l'article 12 porte sur le statut des enfants d'esclaves, et le cours insiste : les séparations sont voulues, pas dues au hasard."
+  }
+]

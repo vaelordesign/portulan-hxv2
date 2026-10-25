@@ -1,0 +1,214 @@
+[
+  {
+    "id": "Q13-01",
+    "s": "s13",
+    "t": "qcm",
+    "q": "Quelle est la définition de l'esclavage donnée dans le cours ?",
+    "o": [
+      "Le processus par lequel une personne libre acquiert le statut d'esclave",
+      "Un contrat de travail d'une durée limitée, dans un système légal que le travailleur connaît",
+      "Un système économique, juridique et social dans lequel des individus deviennent la propriété d'autrui ou sont réduits au statut de biens",
+      "Le droit donné à un colon d'exiger le travail ou le tribut d'Autochtones en échange de leur christianisation"
+    ],
+    "a": 2,
+    "w": "L'esclavage est un système à trois faces (économique, juridique, social) où une personne devient la propriété d'une autre, un bien. Les autres options sont de vraies définitions du cours, mais d'autres notions : le processus qui rend une personne esclave, c'est l'esclavisation; le contrat à durée limitée, c'est l'engagisme; le droit d'exiger le travail ou le tribut d'Autochtones, c'est l'encomienda."
+  },
+  {
+    "id": "Q13-02",
+    "s": "s13",
+    "t": "qcm",
+    "q": "Qu'est-ce qui fait d'une société une société esclavagiste, et non une simple société avec esclaves ?",
+    "o": [
+      "L'esclavage est au cœur de l'économie et de l'organisation sociale : la production repose sur les esclaves et les maîtres forment la classe dominante",
+      "On y trouve au moins quelques esclaves domestiques dans les familles riches",
+      "L'esclavage y est interdit par la loi, mais pratiqué en secret",
+      "Les esclaves y occupent surtout des tâches spécialisées, militaires ou administratives"
+    ],
+    "a": 0,
+    "w": "Le critère, c'est la place de l'esclavage : dans une société esclavagiste, toute l'économie et la hiérarchie sociale en dépendent (São Tomé, Saint-Domingue, sud des États-Unis). Quelques esclaves domestiques ne suffisent pas : c'est justement le cas d'une société avec esclaves, où l'esclavage reste marginal. L'interdiction légale n'est pas le critère. Et les tâches spécialisées existent dans plusieurs sociétés sans que l'économie entière repose sur elles."
+  },
+  {
+    "id": "Q13-03",
+    "s": "s13",
+    "t": "qcm",
+    "q": "Saint-Domingue est-elle une société avec esclaves ou une société esclavagiste ?",
+    "o": [
+      "Une société avec esclaves, car l'esclavage n'y est qu'une forme de travail parmi d'autres",
+      "Ni l'une ni l'autre, car ses travailleurs sont des engagés sous contrat",
+      "Une société avec esclaves, comme la Chine des Ming",
+      "Une société esclavagiste, car la production de cette colonie très profitable repose sur les esclaves"
+    ],
+    "a": 3,
+    "w": "Saint-Domingue est un exemple type de société esclavagiste : sa production repose sur le travail des esclaves et les maîtres forment la classe dominante. Elle devient même la colonie la plus profitable de toutes les puissances européennes. L'esclavage n'y est donc pas marginal, contrairement à la Chine des Ming, qui est une société avec esclaves. Les engagés sous contrat sont des Européens et ils ne suffisent pas à la demande."
+  },
+  {
+    "id": "Q13-04",
+    "s": "s13",
+    "t": "qcm",
+    "q": "Dans laquelle de ces sociétés l'esclavage existe-t-il, mais reste marginal, une forme de travail parmi d'autres ?",
+    "o": [
+      "São Tomé, au XVIe siècle",
+      "La Chine des Ming",
+      "Saint-Domingue",
+      "Le sud des États-Unis"
+    ],
+    "a": 1,
+    "w": "La Chine des Ming (le cours cite l'eunuque Zheng He) est une société avec esclaves, comme l'Europe féodale : l'esclavage y existe, mais l'économie ne repose pas sur lui. São Tomé, Saint-Domingue et le sud des États-Unis sont les trois exemples de sociétés esclavagistes, où toute la production dépend des esclaves. São Tomé est même le premier exemple de société esclavagiste typique, le « laboratoire » de la traite."
+  },
+  {
+    "id": "Q13-05",
+    "s": "s13",
+    "t": "qcm",
+    "q": "Quel est le « double statut » de l'esclave ?",
+    "o": [
+      "Esclave des champs et esclave de maison",
+      "Né en Afrique ou né sur la plantation",
+      "Producteur, car son travail produit des biens, des richesses et des services, et objet, car on peut l'acheter, le louer ou le vendre",
+      "Prisonnier de guerre en Afrique, puis engagé sous contrat en Amérique"
+    ],
+    "a": 2,
+    "w": "Le double statut, c'est que l'esclave est à la fois quelqu'un qui produit (son travail crée de la richesse) et quelque chose qu'on possède (il est lui-même un bien). Champs ou maison, et né en Afrique ou sur la plantation, ce sont des hiérarchies imposées entre esclaves pour mieux les contrôler. La capture comme prisonnier de guerre est une étape de l'esclavisation, et l'esclave n'est jamais un engagé : l'engagé a un contrat d'une durée limitée."
+  },
+  {
+    "id": "Q13-06",
+    "s": "s13",
+    "t": "qcm",
+    "q": "Qu'est-ce que la « double contrainte » de l'esclave ?",
+    "o": [
+      "Devoir produire et travailler, tout en subissant une déshumanisation qui le réduit à une « chose »",
+      "Devoir payer un tribut à un colon et se convertir au christianisme",
+      "Obéir à la fois au Code noir et à la religion d'État",
+      "Servir à la fois dans l'armée et dans l'administration"
+    ],
+    "a": 0,
+    "w": "La double contrainte fait écho au double statut : comme producteur, l'esclave doit travailler et produire; comme objet, il est déshumanisé, traité comme une « chose ». Le tribut et la christianisation renvoient à l'encomienda. Le Code noir (1685) et la religion d'État sont des notions du cours, mais ce n'est pas ce que le prof appelle la double contrainte. Les tâches militaires ou administratives sont un type de travail possible, pas une contrainte qui définit tout esclave."
+  },
+  {
+    "id": "Q13-07",
+    "s": "s13",
+    "t": "qcm",
+    "q": "Lequel de ces exemples le cours ne présente-t-il PAS comme une forme d'esclavage ou de travail forcé dans l'histoire ?",
+    "o": [
+      "Le devchirmé ottoman",
+      "L'encomienda en Amérique espagnole",
+      "Le commerce transsaharien",
+      "La société par actions de la VOC"
+    ],
+    "a": 3,
+    "w": "La société par actions est un outil financier : plusieurs propriétaires se partagent la VOC selon leur nombre d'actions. Rien à voir avec l'esclavage. Les trois autres sont dans la liste du prof, avec l'Empire romain, les serfs de l'époque féodale et la Chine des Ming : l'esclavage est repérable à toutes les époques et dans une variété d'espaces, pas seulement dans l'Atlantique."
+  },
+  {
+    "id": "Q13-08",
+    "s": "s13",
+    "t": "qcm",
+    "q": "En quoi la traite atlantique se démarque-t-elle des autres formes d'esclavage de l'histoire ?",
+    "o": [
+      "Elle est la toute première forme d'esclavage de l'histoire humaine",
+      "Par son ampleur (10, 15, 20 millions de personnes déplacées), son impact économique (développement du capitalisme) et son impact socioculturel (racisme, démographie, inégalités)",
+      "Elle ne touche que l'Europe et l'Afrique, sans lien avec l'Amérique",
+      "Elle se limite au travail domestique dans les villes européennes"
+    ],
+    "a": 1,
+    "w": "Retiens les 3 critères du prof : ampleur, impact économique, impact socioculturel. Elle n'est pas la première forme d'esclavage : l'Empire romain, entre autres, la précède. Elle relie trois continents (Afrique, Europe, Amérique) du XVe au XIXe siècle, et les esclaves travaillent surtout dans les plantations des colonies d'Amérique, pas comme domestiques en Europe."
+  },
+  {
+    "id": "Q13-09",
+    "s": "s13",
+    "t": "vf",
+    "q": "Dans le cours, l'esclavage est présenté comme un phénomène propre à l'époque moderne et à l'Amérique.",
+    "a": false,
+    "w": "Faux. Le prof insiste : l'esclavage est repérable à toutes les époques et dans une variété d'espaces (Empire romain, serfs féodaux, Chine des Ming, devchirmé ottoman, commerce transsaharien), et il existe encore aujourd'hui sous forme de travail forcé. Ce qui est propre à la traite atlantique, c'est son ampleur et ses impacts."
+  },
+  {
+    "id": "Q13-10",
+    "s": "s13",
+    "t": "vf",
+    "q": "Selon l'OIT (2021), environ 28 millions de personnes sont aujourd'hui victimes de travail forcé, une pratique qui génère 238 milliards de dollars par année.",
+    "a": true,
+    "w": "Vrai. C'est la diapo qui montre que l'esclavage n'appartient pas qu'au passé. Le cours cite aussi les ouvriers migrants des chantiers au Qatar et la constitution américaine, qui permet encore le travail forcé comme peine."
+  },
+  {
+    "id": "Q13-11",
+    "s": "s13",
+    "t": "vf",
+    "q": "L'Europe féodale, avec ses serfs, est une société esclavagiste au même titre que Saint-Domingue.",
+    "a": false,
+    "w": "Faux. L'Europe féodale est donnée comme exemple de société avec esclaves : la servitude y existe, mais l'esclavage n'est pas au cœur de l'économie. Saint-Domingue, au contraire, est une société esclavagiste : toute sa production repose sur les esclaves et les maîtres forment la classe dominante."
+  },
+  {
+    "id": "Q13-12",
+    "s": "s13",
+    "t": "vf",
+    "q": "Dans l'histoire, les tâches des esclaves ne se limitent pas aux champs : elles comprennent aussi les mines, la construction, le travail domestique et des tâches spécialisées, militaires ou administratives.",
+    "a": true,
+    "w": "Vrai. Le cours distingue trois grands types de tâches : champs, mines et construction; travail domestique; travail spécialisé (militaire, administratif). Complément : le devchirmé ottoman fournissait justement des soldats, les janissaires, et des administrateurs à l'Empire."
+  },
+  {
+    "id": "Q13-13",
+    "s": "s13",
+    "t": "vf",
+    "q": "São Tomé, Saint-Domingue et le sud des États-Unis sont donnés en exemple de sociétés avec esclaves.",
+    "a": false,
+    "w": "Faux. Ce sont les trois exemples de sociétés esclavagistes : la production y repose sur les esclaves et les maîtres forment la classe dominante. Les exemples de sociétés avec esclaves, où l'esclavage est marginal, sont l'Europe féodale et la Chine des Ming."
+  },
+  {
+    "id": "Q13-14",
+    "s": "s13",
+    "t": "courte",
+    "q": "Comment appelle-t-on une société où l'esclavage est au cœur de l'économie et de l'organisation sociale, et où les maîtres forment la classe dominante ?",
+    "acc": ["societe esclavagiste", "une societe esclavagiste", "esclavagiste"],
+    "m": "Réponse modèle : une société esclavagiste. Exemples : São Tomé, Saint-Domingue, le sud des États-Unis. À distinguer de la société avec esclaves, où l'esclavage reste marginal.",
+    "k": ["société esclavagiste", "cœur de l'économie", "classe dominante"]
+  },
+  {
+    "id": "Q13-15",
+    "s": "s13",
+    "t": "courte",
+    "q": "Selon son double statut, l'esclave est à la fois un producteur et un... quoi ?",
+    "acc": ["objet", "un objet", "bien", "un bien", "une chose", "chose"],
+    "m": "Réponse modèle : un objet. On peut l'acheter, le louer, le vendre : il est lui-même un bien, en plus de produire des biens, des richesses et des services par son travail.",
+    "k": ["objet", "bien", "acheter, louer, vendre"]
+  },
+  {
+    "id": "Q13-16",
+    "s": "s13",
+    "t": "courte",
+    "q": "Selon le cours, la traite atlantique a eu un impact économique historique en contribuant au développement de quel système économique ?",
+    "acc": ["capitalisme", "le capitalisme"],
+    "m": "Réponse modèle : le capitalisme. Les profits tirés des plantations et du commerce d'esclaves enrichissent les marchands et nourrissent l'accumulation de capitaux.",
+    "k": ["capitalisme", "profits", "impact économique"]
+  },
+  {
+    "id": "Q13-17",
+    "s": "s13",
+    "t": "courte",
+    "q": "Dans quel empire existe le devchirmé, cité dans le cours parmi les exemples d'esclavage dans l'histoire ?",
+    "acc": ["empire ottoman", "l empire ottoman", "ottoman", "ottomans", "les ottomans"],
+    "m": "Réponse modèle : l'Empire ottoman. Le devchirmé montre que l'esclavage existe aussi hors de l'Atlantique et avant la traite (complément : il fournissait des soldats, les janissaires, et des administrateurs).",
+    "k": ["Empire ottoman", "devchirmé"]
+  },
+  {
+    "id": "Q13-18",
+    "s": "s13",
+    "t": "phrase",
+    "q": "Explique en une phrase la différence entre une société avec esclaves et une société esclavagiste, avec un exemple de chacune.",
+    "m": "Dans une société avec esclaves, comme l'Europe féodale ou la Chine des Ming, l'esclavage existe mais reste marginal, alors que dans une société esclavagiste, comme São Tomé ou Saint-Domingue, la production repose sur les esclaves et les maîtres forment la classe dominante.",
+    "k": ["marginal", "production ou économie reposant sur les esclaves", "un exemple de chaque"]
+  },
+  {
+    "id": "Q13-19",
+    "s": "s13",
+    "t": "phrase",
+    "q": "Quel lien peux-tu faire entre la traite atlantique et le racisme ?",
+    "m": "En réduisant des millions d'Africains au statut de biens, la traite atlantique a un impact socioculturel majeur : elle développe le racisme en faisant de la couleur de peau un statut (noir = esclave, blanc = libre), ce qui laisse des inégalités durables.",
+    "k": ["statut de biens", "couleur de peau", "racisme", "inégalités"]
+  },
+  {
+    "id": "Q13-20",
+    "s": "s13",
+    "t": "phrase",
+    "q": "Pourquoi l'ampleur de la traite atlantique en fait-elle un phénomène de mondialisation ? Réponds en une phrase.",
+    "m": "En déplaçant 10 à 20 millions de personnes entre l'Afrique, l'Europe et l'Amérique du XVe au XIXe siècle, la traite atlantique crée une interaction généralisée entre continents, à la fois économique (développement du capitalisme) et sociale (racisme, inégalités).",
+    "k": ["millions de personnes", "trois continents", "capitalisme ou racisme", "interaction entre continents"]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "id": "Q12-01",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Bombay et le Fort Saint-George de Madras (1639) sont des possessions anglaises en Asie. De quel type de colonie s'agit-il ?",
+    "o": [
+      "Des colonies d'exploitation, comme Antigua",
+      "Des colonies-comptoirs",
+      "Des colonies de peuplement, comme le Massachusetts",
+      "Des colonies royales, comme la Nouvelle-France après 1663"
+    ],
+    "a": 1,
+    "w": "En Asie, les Anglais installent des colonies-comptoirs : des postes permanents d'échange (des forts comme Saint-George, premier fort britannique en Inde) qui servent à contrôler le commerce des produits de la région, sans peuplement massif. Antigua, dans les Antilles, est une colonie d'exploitation; le Massachusetts, une colonie de peuplement. « Colonie royale » désigne la Nouvelle-France prise en main par le roi en 1663, pas les postes anglais d'Asie."
+  },
+  {
+    "id": "Q12-02",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Saint-Domingue et la Martinique, dans les Caraïbes, sont des colonies françaises de quel type ?",
+    "o": [
+      "Des colonies-comptoirs, comme Pondichéry",
+      "Des colonies de peuplement, comme la Nouvelle-France après 1663",
+      "Des colonies d'exploitation",
+      "Des sociétés avec esclaves, où l'esclavage reste marginal"
+    ],
+    "a": 2,
+    "w": "Dans les Caraïbes, la France veut surtout les richesses extraites des plantations (le sucre, par exemple), bien plus que le peuplement : ce sont des colonies d'exploitation. Saint-Domingue devient même la colonie la plus profitable de toutes les puissances européennes. Pondichéry est un comptoir en Inde, et la Nouvelle-France de 1663 est une colonie de peuplement. Dernier piège : Saint-Domingue n'est pas une société avec esclaves, c'est une société esclavagiste, puisque toute sa production repose sur les esclaves."
+  },
+  {
+    "id": "Q12-03",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Que veut dire « marché extérieur captif » quand on parle des colonies de peuplement anglaises ?",
+    "o": [
+      "Les colons dépendent de la métropole et sont obligés de lui acheter ses produits, ce qui favorise les exportations de la métropole",
+      "Il s'agit du marché où l'on vend les captifs africains aux planteurs",
+      "Il s'agit d'un comptoir où la métropole se soumet aux lois locales pour commercer",
+      "Les colons vivent en autarcie complète, sans jamais rien acheter à la métropole"
+    ],
+    "a": 0,
+    "w": "Le mot « captif » ne parle pas ici d'esclaves : c'est le marché qui est captif. Les colons dépendent de la métropole et doivent acheter ses biens manufacturés : c'est une domination économique, très mercantiliste (favoriser les exportations). Le marché d'esclaves relève de la traite; la soumission aux lois locales, des comptoirs. Et l'autarcie totale est un piège : les puritains cherchent l'autonomie, mais achètent quand même des biens manufacturés anglais."
+  },
+  {
+    "id": "Q12-04",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Pourquoi les Anglais envoient-ils une population importante, de toutes les classes sociales, dans leurs colonies d'Amérique du Nord ?",
+    "o": [
+      "Parce que le Code noir de 1685 oblige les métropoles à peupler leurs colonies",
+      "Pour fournir de la main-d'œuvre aux comptoirs de Bombay et de Madras",
+      "Pour se soumettre aux lois des nations autochtones, comme dans un comptoir",
+      "Pour reproduire la société de la métropole, ce qui facilite l'exploitation du territoire et crée un marché extérieur captif"
+    ],
+    "a": 3,
+    "w": "Une colonie de peuplement tente de reproduire la société de la métropole : avec des colons de toutes les classes, on occupe et exploite le territoire, et on se crée des acheteurs obligés pour les produits anglais. Le Code noir est une loi française de 1685 sur les esclaves, sans rapport avec le peuplement anglais. Bombay et Madras sont des comptoirs d'Asie, qui ne demandent pas de peuplement massif. Se soumettre aux lois locales est un réflexe de comptoir, pas de peuplement."
+  },
+  {
+    "id": "Q12-05",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Qui peuple la colonie de Plymouth, au Massachusetts, en 1620 ?",
+    "o": [
+      "Des marins et soldats recrutés par la VOC",
+      "Des dissidents religieux, les puritains, en quête d'autarcie et d'autonomie",
+      "Des encomenderos venus de l'Amérique espagnole",
+      "Des engagés envoyés pour cultiver la canne à sucre"
+    ],
+    "a": 1,
+    "w": "Plymouth (1620) est fondée par des puritains, des dissidents religieux en quête d'autarcie et d'autonomie. Ils vendent des fourrures et du poisson et achètent des biens manufacturés anglais. La VOC est néerlandaise et tournée vers l'Asie. Les encomenderos sont des colons espagnols. Le sucre est la culture des Antilles (colonies d'exploitation), pas du Massachusetts."
+  },
+  {
+    "id": "Q12-06",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Qu'est-ce qui change pour la Nouvelle-France en 1663 ?",
+    "o": [
+      "Elle devient une colonie royale et passe de la colonie-comptoir (traite des fourrures) à la colonie de peuplement",
+      "Elle devient une colonie d'exploitation sucrière, comme Saint-Domingue",
+      "Elle est confiée à la Compagnie des Cent-Associés, qui y lance la traite des fourrures",
+      "Elle adopte la limpieza de sangre et le système des castas"
+    ],
+    "a": 0,
+    "w": "Avant 1663, la Nouvelle-France est d'abord une colonie-comptoir : la traite des fourrures (Abitation de Québec, complément : Champlain, 1608), puis la Compagnie des Cent-Associés (complément : 1627). En 1663, elle devient colonie royale, donc colonie de peuplement (complément : Louis XIV, Colbert, l'intendant Jean Talon et les Filles du roi). Les Cent-Associés viennent donc avant 1663, pas en 1663. Le sucre, c'est Saint-Domingue, et les castas, ce sont les colonies espagnoles."
+  },
+  {
+    "id": "Q12-07",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Quel lien peut-on faire entre les colonies d'exploitation anglaises des Antilles et la traite atlantique ?",
+    "o": [
+      "Les Antilles fournissent des captifs aux royaumes d'Afrique",
+      "Les Antilles sont peuplées de puritains qui y remplacent le travail forcé par l'autarcie",
+      "La VOC y achète des épices qu'elle revend ensuite en Asie",
+      "Les plantations de sucre, de café et d'indigo exigent une énorme main-d'œuvre, fournie par des esclaves africains"
+    ],
+    "a": 3,
+    "w": "Une colonie d'exploitation vise les richesses extraites : dans les Antilles, ce sont le sucre, le café et l'indigo, cultivés à la main sur de grandes plantations. Cette demande de main-d'œuvre est comblée par des esclaves africains (diapo : esclaves au travail sur Antigua). Le sens du trafic est l'inverse : les captifs partent d'Afrique vers l'Amérique. Les puritains sont au Massachusetts, et la VOC commerce les épices d'Asie, pas des Antilles."
+  },
+  {
+    "id": "Q12-08",
+    "s": "s12",
+    "t": "qcm",
+    "q": "Lequel de ces classements est entièrement EXACT ?",
+    "o": [
+      "Pondichéry : colonie de peuplement; Massachusetts : colonie-comptoir",
+      "Martinique : colonie de peuplement; Bombay : colonie d'exploitation",
+      "Pondichéry : colonie-comptoir; Martinique : colonie d'exploitation; Massachusetts : colonie de peuplement",
+      "Madras : colonie d'exploitation; Nouvelle-France avant 1663 : colonie de peuplement"
+    ],
+    "a": 2,
+    "w": "Retiens la carte des 3 types : en Asie, des comptoirs (Pondichéry pour la France, Bombay et Madras pour l'Angleterre); dans les Caraïbes, des colonies d'exploitation (Martinique, Saint-Domingue, Antilles anglaises); en Amérique du Nord, des colonies de peuplement (Massachusetts, Treize colonies, Nouvelle-France après 1663). La Nouvelle-France avant 1663 est un comptoir de fourrures, pas encore une colonie de peuplement."
+  },
+  {
+    "id": "Q12-09",
+    "s": "s12",
+    "t": "vf",
+    "q": "Avant 1663, la Nouvelle-France est surtout une colonie-comptoir tournée vers la traite des fourrures.",
+    "a": true,
+    "w": "Vrai. Ses débuts reposent sur la traite des fourrures (Abitation de Québec, puis Compagnie des Cent-Associés). Ce n'est qu'en 1663, comme colonie royale, qu'elle devient une colonie de peuplement."
+  },
+  {
+    "id": "Q12-10",
+    "s": "s12",
+    "t": "vf",
+    "q": "Dans une colonie de peuplement anglaise, la métropole cherche à reproduire sa société, mais en n'y envoyant que des nobles.",
+    "a": false,
+    "w": "Faux. Pour reproduire la société de la métropole, il faut justement toutes les classes sociales : c'est un envoi important de population. Une colonie formée seulement de nobles ne reproduirait pas la société anglaise et ne fournirait ni travailleurs ni marché captif."
+  },
+  {
+    "id": "Q12-11",
+    "s": "s12",
+    "t": "vf",
+    "q": "Selon les notes, les plantations des colonies de peuplement anglaises reposent d'abord sur une main-d'œuvre d'Anglais appauvris, les engagés.",
+    "a": true,
+    "w": "Vrai. Le système de plantations sur de grandes superficies utilise d'abord des Anglais appauvris, engagés sous contrat. Lien avec la bourgeoisie : complément, plusieurs sont des paysans privés des terres communales par les enclosures, partis vers les colonies comme engagés."
+  },
+  {
+    "id": "Q12-12",
+    "s": "s12",
+    "t": "vf",
+    "q": "Les puritains du Massachusetts vivent en autarcie complète : ils n'achètent aucun produit anglais.",
+    "a": false,
+    "w": "Faux. Ils sont en quête d'autarcie et d'autonomie, mais ne l'atteignent pas : ils achètent des biens manufacturés anglais et vendent des fourrures et du poisson. C'est justement ce qui fait de leur colonie un marché captif pour l'Angleterre."
+  },
+  {
+    "id": "Q12-13",
+    "s": "s12",
+    "t": "vf",
+    "q": "Le véritable projet colonial anglais commence dès la fin des années 1400, au moment des premières explorations.",
+    "a": false,
+    "w": "Faux. Les premières explorations anglaises datent bien de la fin des années 1400, mais le véritable projet colonial ne commence que vers 1600 (complément : Compagnie anglaise des Indes orientales, 1600). Même chose pour la France : explorations au XVIe siècle, projet colonial au début des années 1600."
+  },
+  {
+    "id": "Q12-14",
+    "s": "s12",
+    "t": "courte",
+    "q": "En un mot : de quel type de colonie sont les Treize colonies anglaises d'Amérique du Nord ?",
+    "acc": ["peuplement", "colonie de peuplement", "colonies de peuplement", "de peuplement"],
+    "m": "Réponse modèle : des colonies de peuplement. L'Angleterre y envoie une population importante de toutes les classes pour reproduire sa société et se créer un marché extérieur captif.",
+    "k": ["peuplement", "marché captif", "Amérique du Nord"]
+  },
+  {
+    "id": "Q12-15",
+    "s": "s12",
+    "t": "courte",
+    "q": "Nomme la colonie-comptoir française en Inde.",
+    "acc": ["pondichery", "pondicherry"],
+    "m": "Réponse modèle : Pondichéry. Comme les Anglais à Bombay et Madras, les Français se contentent en Asie d'un poste permanent d'échange tourné vers le commerce.",
+    "k": ["Pondichéry", "comptoir", "Inde"]
+  },
+  {
+    "id": "Q12-16",
+    "s": "s12",
+    "t": "courte",
+    "q": "En quelle année la Nouvelle-France devient-elle une colonie royale ?",
+    "acc": ["1663", "en 1663"],
+    "m": "Réponse modèle : 1663. C'est le passage de la colonie-comptoir (fourrures) à la colonie de peuplement.",
+    "k": ["1663", "colonie royale", "peuplement"]
+  },
+  {
+    "id": "Q12-17",
+    "s": "s12",
+    "t": "courte",
+    "q": "Quelle activité commerciale fait d'abord de la Nouvelle-France une colonie-comptoir ?",
+    "acc": ["traite des fourrures", "la traite des fourrures", "fourrures", "fourrure", "commerce des fourrures", "le commerce des fourrures"],
+    "m": "Réponse modèle : la traite des fourrures. La colonie sert d'abord de poste d'échange pour se procurer des fourrures, avant de devenir une colonie de peuplement en 1663.",
+    "k": ["fourrures", "comptoir", "avant 1663"]
+  },
+  {
+    "id": "Q12-18",
+    "s": "s12",
+    "t": "phrase",
+    "q": "Décris en une phrase la transformation de la Nouvelle-France entre ses débuts et 1663, en nommant les deux types de colonie.",
+    "m": "D'abord une colonie-comptoir centrée sur la traite des fourrures, la Nouvelle-France devient en 1663 une colonie royale, prise en main par le roi, qui en fait une colonie de peuplement.",
+    "k": ["colonie-comptoir et fourrures", "1663 et colonie royale", "colonie de peuplement"]
+  },
+  {
+    "id": "Q12-19",
+    "s": "s12",
+    "t": "phrase",
+    "q": "Quel lien peux-tu faire entre la colonie de peuplement et le mercantilisme ?",
+    "m": "En peuplant l'Amérique du Nord, l'Angleterre se crée un marché extérieur captif : les colons, dépendants de la métropole, sont obligés d'acheter ses produits manufacturés, ce qui favorise ses exportations et son enrichissement, comme le veut le mercantilisme.",
+    "k": ["marché captif", "dépendance des colons", "exportations de la métropole", "mercantilisme"]
+  },
+  {
+    "id": "Q12-20",
+    "s": "s12",
+    "t": "phrase",
+    "q": "Montre en une phrase que l'Angleterre utilise les trois types de colonies selon les régions, avec un exemple pour chacun.",
+    "m": "L'Angleterre a des colonies-comptoirs en Asie (Bombay, Madras), des colonies d'exploitation dans les Antilles (sucre, café, indigo, comme à Antigua) et des colonies de peuplement en Amérique du Nord (Massachusetts, Treize colonies).",
+    "k": ["Bombay ou Madras : comptoir", "Antilles : exploitation", "Amérique du Nord : peuplement"]
+  }
+]

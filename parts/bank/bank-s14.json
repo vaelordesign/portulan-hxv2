@@ -1,0 +1,191 @@
+[
+  {
+    "id": "Q14-01",
+    "s": "s14",
+    "t": "qcm",
+    "q": "Comment les Portugais entrent-ils dans le commerce des esclaves au XVe siècle ?",
+    "o": [
+      "Ils entrent en contact avec des sociétés esclavagistes africaines déjà existantes, puis adoptent ce commerce",
+      "Ils reprennent les routes et les comptoirs de la VOC néerlandaise",
+      "Ils appliquent le Code noir préparé par Colbert",
+      "Ils transforment l'encomienda espagnole en commerce maritime"
+    ],
+    "a": 0,
+    "w": "Dès le XVe siècle, les Portugais rencontrent en Afrique des sociétés qui pratiquent déjà l'esclavage (diapos : le roi du Congo, le fort d'Elmina sur la Côte de l'Or), puis ils adoptent ce commerce. Les autres choix sont anachroniques ou hors sujet : la VOC est fondée en 1602 et ce sont les Néerlandais qui reprennent les routes portugaises, pas l'inverse; le Code noir est français et date de 1685; l'encomienda est un système de travail forcé des Autochtones en Amérique espagnole."
+  },
+  {
+    "id": "Q14-02",
+    "s": "s14",
+    "t": "courte",
+    "q": "Île à mi-chemin entre Elmina et le royaume du Kongo, d'abord escale portugaise, puis colonie sucrière que le prof appelle « le laboratoire » de la société esclavagiste.",
+    "acc": ["sao tome", "l ile de sao tome", "ile de sao tome", "sao tome et principe"],
+    "m": "Réponse modèle : São Tomé. Au XVIe siècle, les Portugais tentent de rentabiliser l'île par la canne à sucre, avec une minorité de colons et une majorité d'esclaves : c'est le premier exemple de société esclavagiste typique, un modèle ensuite repris en Amérique.",
+    "k": ["São Tomé", "canne à sucre", "laboratoire", "XVIe siècle"]
+  },
+  {
+    "id": "Q14-03",
+    "s": "s14",
+    "t": "qcm",
+    "q": "Pourquoi le prof qualifie-t-il São Tomé de « laboratoire » ?",
+    "o": [
+      "Parce que la VOC y crée la première société par actions avec capital fixe",
+      "Parce que le système des castas y est inventé à partir de la limpieza de sangre",
+      "Parce que les Portugais y mettent au point un modèle (plantation sucrière, majorité d'esclaves, minorité de maîtres) que d'autres Européens reprennent ensuite en Amérique",
+      "Parce que Las Casas y fait appliquer pour la première fois les Lois nouvelles"
+    ],
+    "a": 2,
+    "w": "Un laboratoire, c'est un lieu d'essai : à São Tomé, au XVIe siècle, les Portugais rentabilisent l'île par la canne à sucre avec une majorité d'esclaves, une « prison à ciel ouvert ». D'autres pays européens reprennent ensuite ce modèle dans leurs colonies d'Amérique. La société par actions naît avec la VOC à Amsterdam, les castas se forment dans les colonies espagnoles d'Amérique, et les Lois nouvelles (1542) visent les Autochtones de l'Amérique espagnole."
+  },
+  {
+    "id": "Q14-04",
+    "s": "s14",
+    "t": "vf",
+    "q": "À São Tomé au XVIe siècle, les Portugais forment la majorité de la population, et les esclaves, une minorité.",
+    "a": false,
+    "w": "Faux : c'est l'inverse. Une minorité de Portugais contrôle une majorité d'esclaves, d'où l'image d'une « prison à ciel ouvert ». C'est justement ce déséquilibre qui fait de São Tomé une société esclavagiste typique : toute la production y repose sur les esclaves."
+  },
+  {
+    "id": "Q14-05",
+    "s": "s14",
+    "t": "qcm",
+    "q": "Selon le cours, pourquoi la colonisation des Amériques exige-t-elle autant de main-d'œuvre ?",
+    "o": [
+      "Parce que l'argent de Potosí doit être transporté à pied jusqu'à Manille",
+      "Parce que les plantations de produits à haute valeur marchande (sucre, indigo, café, coton) couvrent de grands espaces à défricher et que tout le travail s'y fait à la main",
+      "Parce que les manufactures royales comme Saint-Gobain manquent d'ouvriers",
+      "Parce que les puritains du Massachusetts refusent d'accueillir des engagés"
+    ],
+    "a": 1,
+    "w": "Le cours donne cette chaîne de causes : le système des plantations exige de défricher de grands espaces, tout est fait à la main (labourer, planter, cueillir, transporter, transformer) et il faut bâtir forts, baraquements et installations de transformation. L'argent de Potosí circule par bateau dans le système du Galion de Manille, sans lien avec les plantations; Saint-Gobain est une manufacture de la France de Louis XIV; et le Massachusetts puritain n'est pas présenté comme la source de la demande de main-d'œuvre."
+  },
+  {
+    "id": "Q14-06",
+    "s": "s14",
+    "t": "qcm",
+    "q": "Pourquoi les colons ne comptent-ils pas surtout sur l'esclavage des Autochtones pour leurs plantations ?",
+    "o": [
+      "Parce que le Code noir de 1685 protège les Autochtones",
+      "Parce que les Autochtones ont une immunité plus forte que celle des Européens et des Africains",
+      "Parce que les Autochtones sont déjà tous engagés par contrat auprès des colons",
+      "Parce qu'ils sont décimés par les guerres, les famines et les maladies (îles des Caraïbes) et qu'ailleurs ils refusent de travailler pour les Européens et sont capables de leur résister (Amérique du Nord)"
+    ],
+    "a": 3,
+    "w": "Le cours donne deux raisons : la population autochtone s'effondre (guerres, famines, maladies, par exemple dans les îles des Caraïbes) et, là où elle reste forte, elle résiste (Amérique du Nord). Le Code noir encadre l'esclavage dans les colonies françaises, il ne protège pas les Autochtones. Pour l'immunité, c'est l'inverse : les Autochtones n'avaient jamais été exposés à ces microbes, d'où une mortalité de 80 à 90 %. Enfin, l'engagisme concerne des Européens."
+  },
+  {
+    "id": "Q14-07",
+    "s": "s14",
+    "t": "vf",
+    "q": "Il existe un lien direct entre le choc microbien en Amérique et le recours des colons à la traite atlantique.",
+    "a": true,
+    "w": "Vrai : c'est un fil rouge du cours. Le choc microbien (mortalité de 80 à 90 % des Autochtones) vide l'Amérique de sa main-d'œuvre; ajouté à la résistance autochtone, il pousse les colons vers les captifs africains. Une diffusion biologique, dimension environnementale de la mondialisation, entraîne donc une conséquence économique et sociale."
+  },
+  {
+    "id": "Q14-08",
+    "s": "s14",
+    "t": "courte",
+    "q": "Forme de servage où un Européen pauvre travaille dans les colonies sous un contrat d'une durée limitée (en anglais : indenture).",
+    "acc": ["engagisme", "l engagisme", "indenture", "l indenture"],
+    "m": "Réponse modèle : l'engagisme. Le travail forcé de ces engagés européens ne suffit pas à la demande des plantations, et leur contrat finit par se terminer, ce qui pousse les colons vers l'esclavage, sans limite de durée.",
+    "k": ["engagisme", "contrat", "durée limitée"]
+  },
+  {
+    "id": "Q14-09",
+    "s": "s14",
+    "t": "qcm",
+    "q": "Qu'est-ce qui distingue l'engagé européen de l'esclave africain, selon le cours ?",
+    "o": [
+      "L'engagé ne travaille jamais dans les plantations, seulement dans les villes",
+      "L'engagé est la propriété de son maître à vie, mais ses enfants naissent libres",
+      "Même vulnérable, l'engagé a un contrat d'une durée limitée et évolue dans un système légal et un contexte culturel qu'il connaît",
+      "L'engagé est capturé en Afrique, puis revendu en Europe"
+    ],
+    "a": 2,
+    "w": "Le prof insiste sur deux différences : le contrat de l'engagé a une fin, et l'engagé reste dans un cadre juridique et culturel familier. L'esclave, lui, est arraché à son monde et n'a pas ces protections. Les engagés travaillent bel et bien dans les plantations (par exemple les Anglais appauvris des colonies anglaises d'Amérique du Nord). La propriété à vie, c'est l'esclavage, pas l'engagisme, et la capture en Afrique est la première étape de l'esclavisation."
+  },
+  {
+    "id": "Q14-10",
+    "s": "s14",
+    "t": "vf",
+    "q": "Pour un colon, un des avantages de l'esclavage sur l'engagisme est la durée illimitée : l'esclave l'est à vie, donc pas besoin de le remplacer à la fin d'un contrat.",
+    "a": true,
+    "w": "Vrai. C'est un des trois avantages présentés dans une optique de « profit à tout prix » : exploitation maximale en toute impunité, coûts minimaux (nourrir et vêtir au minimum) et durée illimitée. Remarque que ce sont des avantages du point de vue des colons, calculés en termes de rentabilité."
+  },
+  {
+    "id": "Q14-11",
+    "s": "s14",
+    "t": "phrase",
+    "q": "Pourquoi, dans une logique de profit à tout prix, l'esclavage devient-il plus avantageux que l'engagisme pour les colons ? Réponds en une phrase.",
+    "m": "Parce que l'esclave, qui n'a pas les protections légales d'un Européen, peut être exploité au maximum en toute impunité, coûte le moins possible à nourrir et à vêtir, et reste asservi à vie, sans contrat qui se termine.",
+    "k": ["exploitation maximale en toute impunité", "pas de protection légale", "coûts minimaux", "durée illimitée (à vie)"]
+  },
+  {
+    "id": "Q14-12",
+    "s": "s14",
+    "t": "qcm",
+    "q": "Dans le schéma du commerce « triangulaire » présenté en classe, quel est le rôle de l'Europe ?",
+    "o": [
+      "Source d'esclaves, fournis par des marchands africains",
+      "Lieu d'acheminement des ressources extraites, vendues contre des marchandises manufacturées et pour du profit",
+      "Lieu d'exploitation où l'on extrait les ressources primaires (sucre, coton, indigo, café)",
+      "Lieu où l'on échange l'argent américain contre des soies et des porcelaines"
+    ],
+    "a": 1,
+    "w": "Chaque continent a son rôle : l'Afrique est la source d'esclaves, l'Amérique est le lieu d'exploitation et d'extraction des ressources primaires, et l'Europe reçoit ces ressources, les vend contre des produits manufacturés et en tire le profit. L'échange de l'argent contre des soies et des porcelaines se fait à Manille, avec des marchands chinois : c'est le Galion de Manille, une autre route de l'économie-monde."
+  },
+  {
+    "id": "Q14-13",
+    "s": "s14",
+    "t": "vf",
+    "q": "Selon le prof, le commerce triangulaire suit toujours le même sens : Europe, puis Afrique, puis Amérique, puis retour en Europe.",
+    "a": false,
+    "w": "Faux. Le prof nuance lui-même le schéma : « les routes se font dans toutes les directions ». Le triangle est une simplification, car il existe aussi des trajets directs, par exemple Brésil-Afrique en droiture, sans passer par l'Europe."
+  },
+  {
+    "id": "Q14-14",
+    "s": "s14",
+    "t": "phrase",
+    "q": "Explique en une phrase ce que veut dire le prof quand il affirme, à propos du commerce triangulaire, que « les routes se font dans toutes les directions ».",
+    "m": "Il veut dire que le triangle Europe-Afrique-Amérique est une simplification : les navires font aussi des trajets directs entre deux continents, comme entre le Brésil et l'Afrique en droiture, sans passer par l'Europe.",
+    "k": ["le triangle est une simplification", "trajets directs", "Brésil-Afrique en droiture"]
+  },
+  {
+    "id": "Q14-15",
+    "s": "s14",
+    "t": "qcm",
+    "q": "Selon les données de Slave Voyages vues en classe (1450-1866), quel pavillon a embarqué le plus de captifs vers les Amériques ?",
+    "o": [
+      "La Grande-Bretagne (environ 3,1 millions)",
+      "La France (environ 1,3 million)",
+      "Les Pays-Bas (environ 0,6 million)",
+      "Le Portugal et le Brésil (environ 3,9 millions)"
+    ],
+    "a": 3,
+    "w": "Le Portugal/Brésil arrive en tête avec 3 884 557 captifs embarqués, devant la Grande-Bretagne (3 082 337) et la France (1 308 117); les Pays-Bas en comptent 594 375. C'est cohérent avec le reste du cours : les Portugais sont les premiers Européens à entrer dans ce commerce, dès le XVe siècle, et le Brésil devient la principale destination (environ 5 millions de personnes)."
+  },
+  {
+    "id": "Q14-16",
+    "s": "s14",
+    "t": "courte",
+    "q": "Selon la carte 1650-1860 vue en classe, territoire d'Amérique qui reçoit le plus de captifs (environ 5 millions).",
+    "acc": ["bresil", "le bresil", "au bresil"],
+    "m": "Réponse modèle : le Brésil. Avec environ 5 millions de personnes, il devance les Antilles (environ 4,5 millions) et reçoit dix fois plus que l'Amérique du Nord (environ 0,5 million).",
+    "k": ["Brésil", "5 millions", "Antilles 4,5 millions"]
+  },
+  {
+    "id": "Q14-17",
+    "s": "s14",
+    "t": "vf",
+    "q": "Selon la carte 1650-1860 vue en classe, la plus grande partie des captifs a été transportée vers l'Amérique du Nord.",
+    "a": false,
+    "w": "Faux. L'Amérique du Nord reçoit environ 0,5 million de personnes, alors que les Antilles en reçoivent environ 4,5 millions et le Brésil environ 5 millions. Les captifs vont surtout vers les colonies d'exploitation des Antilles et vers le Brésil."
+  },
+  {
+    "id": "Q14-18",
+    "s": "s14",
+    "t": "phrase",
+    "q": "Quel lien peux-tu faire entre le commerce « triangulaire » et la mondialisation ? Réponds en une phrase.",
+    "m": "Le commerce triangulaire relie l'Afrique (source de captifs), l'Amérique (plantations et ressources primaires) et l'Europe (profits et produits manufacturés) dans un même système d'échanges et de domination, ce qui fait de la traite atlantique un « nœud de la mondialisation ».",
+    "k": ["relie l'Afrique, l'Amérique et l'Europe", "rôle de chaque continent", "échanges et domination", "nœud de la mondialisation"]
+  }
+]

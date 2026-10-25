@@ -1,0 +1,214 @@
+[
+  {
+    "id": "Q11-01",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Une métropole implante un poste permanent d'échange sur une côte lointaine pour contrôler l'approvisionnement et le commerce des produits de la région, sans chercher à y installer beaucoup de colons. Selon les définitions du prof, de quel type de colonie s'agit-il ?",
+    "o": [
+      "Une colonie de peuplement",
+      "Une colonie-comptoir",
+      "Une colonie d'exploitation",
+      "Une colonie royale"
+    ],
+    "a": 1,
+    "w": "C'est mot pour mot la définition de la colonie-comptoir : un poste permanent d'échange dont le but est avant tout économique, faire du commerce. La colonie de peuplement suppose au contraire l'envoi de nombreux colons. La colonie d'exploitation se définit par les richesses extraites d'un territoire conquis, pas par un simple poste d'échange. Enfin, « colonie royale » n'est pas un des 3 types : c'est le statut que prend la Nouvelle-France en 1663, quand elle devient une colonie de peuplement."
+  },
+  {
+    "id": "Q11-02",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Quelle phrase distingue correctement la colonisation du colonialisme ?",
+    "o": [
+      "La colonisation vise l'Asie, alors que le colonialisme vise l'Amérique",
+      "La colonisation est l'affaire des compagnies comme la VOC, alors que le colonialisme est l'affaire des rois",
+      "La colonisation désigne les colonies de peuplement, alors que le colonialisme désigne les colonies d'exploitation",
+      "La colonisation est l'action de peupler un territoire de colons, de l'exploiter et de le placer sous la dépendance d'une métropole; le colonialisme est la doctrine ou l'idéologie qui la promeut"
+    ],
+    "a": 3,
+    "w": "Retiens la paire : la colonisation, c'est l'action (peupler, exploiter, placer sous la dépendance d'une métropole); le colonialisme, c'est l'idée, la doctrine qui vise à promouvoir et mettre en place cette action. Les deux mots ne se répartissent ni par continent, ni par acteur (compagnie ou roi), ni par type de colonie : comptoirs, colonies d'exploitation et colonies de peuplement relèvent tous de la colonisation."
+  },
+  {
+    "id": "Q11-03",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Selon les définitions du prof, qu'est-ce qui caractérise une colonie d'exploitation ?",
+    "o": [
+      "La métropole accorde moins d'importance au peuplement qu'aux richesses qu'elle extrait du territoire pour son commerce et son enrichissement",
+      "La métropole envoie toutes les classes sociales pour reproduire sa propre société outre-mer",
+      "La métropole se contente d'un poste permanent d'échange et se soumet aux lois locales",
+      "La métropole y applique la limpieza de sangre pour classer la population en castas"
+    ],
+    "a": 0,
+    "w": "Dans la colonie d'exploitation, ce qui compte, ce sont les richesses extraites (sucre, café, indigo, épices), pas le nombre de colons : les Antilles et Saint-Domingue en sont des exemples. Reproduire toute la société de la métropole, c'est la colonie de peuplement. Le poste d'échange soumis aux lois locales, c'est la colonie-comptoir. Le système des castas existe bien dans les colonies espagnoles, mais il ne définit aucun type de colonie."
+  },
+  {
+    "id": "Q11-04",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Les notes du cours classent les possessions néerlandaises d'Asie (carte de la VOC : Batavia, Ceylan, Malacca) dans quel type de colonie ?",
+    "o": [
+      "Colonies de peuplement, comme la Nouvelle-Angleterre",
+      "Colonies royales, comme la Nouvelle-France après 1663",
+      "Colonies d'exploitation, au service du commerce des épices",
+      "Encomiendas, comme en Amérique espagnole"
+    ],
+    "a": 2,
+    "w": "Les notes disent « colonies d'exploitation en Asie » pour les Néerlandais : la métropole y cherche surtout des richesses (clou de girofle, poivre, muscade) pour son commerce, sans peuplement massif. Attention au piège : au départ, ils ont des réflexes de colonie-comptoir semblables à ceux des Portugais (postes d'échange, soumission aux lois locales, intermédiaires). La Nouvelle-Angleterre est une colonie de peuplement anglaise, la Nouvelle-France devient colonie royale en 1663, et l'encomienda est un système de travail forcé espagnol, pas un type de colonie."
+  },
+  {
+    "id": "Q11-05",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Pourquoi les Provinces-Unies, indépendantes de l'Espagne à la fin des années 1500, se lancent-elles dans le commerce lointain et la construction d'un empire colonial ?",
+    "o": [
+      "Parce qu'elles ont besoin de main-d'œuvre pour remplacer les Autochtones victimes du choc microbien",
+      "Parce qu'elles n'ont ni or ni argent et que, dans la logique mercantiliste, elles doivent en acquérir par le commerce pour être riches et puissantes",
+      "Parce que l'Espagne leur cède les mines de Potosí au moment de leur indépendance",
+      "Parce que la Réforme interdit aux États protestants de commercer en Europe"
+    ],
+    "a": 1,
+    "w": "Le mercantilisme dit que plus un État possède de métaux précieux, plus il est riche et puissant. Sans or ni argent, les Néerlandais appliquent la règle « si tu n'en as pas, tu t'en trouves » : commerce des épices, VOC, empire colonial. Le choc microbien explique plutôt le recours à la traite atlantique en Amérique. Potosí reste espagnol, et les Provinces-Unies viennent justement de se libérer de l'Espagne. La Réforme permet aux rois de contrôler la religion sur leur territoire, elle n'interdit pas le commerce."
+  },
+  {
+    "id": "Q11-06",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Lequel de ces pouvoirs la VOC n'a-t-elle PAS reçu du gouvernement des Provinces-Unies ?",
+    "o": [
+      "Faire la guerre",
+      "Frapper sa propre monnaie",
+      "Établir un système légal pour son personnel et ses sujets asiatiques",
+      "Désigner le stathouder qui représente l'assemblée des 7 provinces"
+    ],
+    "a": 3,
+    "w": "La VOC reçoit le monopole des épices et trois pouvoirs dignes d'un État : faire la guerre (comme le monopole de la violence), frapper monnaie (les finances) et établir un système légal (la justice). Ce sont trois des 4 piliers de l'État moderne, confiés à une compagnie ! Le stathouder, lui, relève du politique : il représente l'assemblée des 7 provinces, qui détient le pouvoir dans la république. La VOC n'a rien à voir avec sa désignation."
+  },
+  {
+    "id": "Q11-07",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Pourquoi la VOC est-elle organisée en société par actions ?",
+    "o": [
+      "Parce que le Parlement, qui détient la balance du pouvoir, oblige les compagnies à vendre leurs parts aux nobles",
+      "Parce que les voyages vers l'Asie sont courts et sûrs, ce qui attire facilement les petits épargnants",
+      "Parce qu'un voyage vers l'Asie dure environ 160 jours, que le retour sur l'investissement peut prendre 2 ans et que les risques (naufrage, piraterie) sont énormes : il faut un capital continu et partager les risques entre plusieurs propriétaires",
+      "Parce que le mercantilisme interdit à une compagnie de garder des métaux précieux dans ses coffres"
+    ],
+    "a": 2,
+    "w": "Tout part des contraintes du commerce asiatique : investir longtemps à l'avance (navires, marins à payer et à nourrir, métaux précieux pour acheter en Asie), attendre jusqu'à 2 ans et risquer de tout perdre. En répartissant le capital entre de nombreux actionnaires, chacun risque moins. Le Parlement qui détient la balance du pouvoir, c'est l'Angleterre, pas les Provinces-Unies. Les voyages ne sont ni courts ni sûrs. Et le mercantilisme pousse au contraire à accumuler les métaux précieux."
+  },
+  {
+    "id": "Q11-08",
+    "s": "s11",
+    "t": "qcm",
+    "q": "Quelle série de chiffres décrit la VOC entre 1602 et 1794 ?",
+    "o": [
+      "4 789 navires et environ 1 million de marins, soldats et employés, dont la moitié de Hollandais",
+      "28 millions de personnes et 238 milliards de dollars par année",
+      "1,8 million de morts, soit environ 15 % des personnes embarquées",
+      "3 884 557 personnes embarquées vers les Amériques"
+    ],
+    "a": 0,
+    "w": "Ces chiffres montrent l'échelle d'une véritable multinationale : 4 789 navires, environ 1 million de personnes, dont seulement la moitié de Hollandais, et un chantier naval d'Amsterdam de 1 200 personnes. Les autres séries viennent d'autres sujets du cours : 28 millions et 238 milliards, c'est le travail forcé aujourd'hui selon l'OIT (2021); 1,8 million de morts, c'est le passage du milieu de la traite atlantique; 3 884 557, ce sont les captifs embarqués par le Portugal et le Brésil."
+  },
+  {
+    "id": "Q11-09",
+    "s": "s11",
+    "t": "vf",
+    "q": "La VOC a été fondée en 1602 par la couronne d'Espagne pour contrôler le commerce des épices d'Asie.",
+    "a": false,
+    "w": "Faux. La VOC est néerlandaise : fondée en 1602 dans les Provinces-Unies, qui venaient de prendre leur indépendance vis-à-vis de l'Espagne, elle reçoit du gouvernement des Provinces-Unies le monopole du commerce des épices. Elle est dissoute en 1799."
+  },
+  {
+    "id": "Q11-10",
+    "s": "s11",
+    "t": "vf",
+    "q": "La VOC donne naissance à la première Bourse, à Amsterdam, et à la première société par actions avec capital fixe.",
+    "a": true,
+    "w": "Vrai. Pour assurer son besoin continu de capital, la VOC fait naître de nouveaux outils financiers : la première société par actions à capital fixe et la première Bourse, à Amsterdam, où l'on peut échanger les actions et obtenir des prêts à court terme à 3 %."
+  },
+  {
+    "id": "Q11-11",
+    "s": "s11",
+    "t": "vf",
+    "q": "Dans une société par actions comme la VOC, chaque actionnaire possède une part égale de la compagnie, peu importe la somme investie.",
+    "a": false,
+    "w": "Faux. Le pourcentage de participation de chaque propriétaire est lié à son nombre d'actions, donc au montant investi. Plus tu achètes d'actions, plus ta part de la compagnie est grande. Ces actions peuvent ensuite s'échanger en Bourse."
+  },
+  {
+    "id": "Q11-12",
+    "s": "s11",
+    "t": "vf",
+    "q": "Le prof qualifie la VOC de multinationale : sur le million de marins, soldats et employés qu'elle a eus entre 1602 et 1794, environ la moitié seulement étaient hollandais.",
+    "a": true,
+    "w": "Vrai. La VOC agit sur plusieurs continents (Le Cap, Ceylan, Malacca, Batavia, Dejima au Japon) et recrute bien au-delà de la Hollande : sur environ 1 million de personnes, la moitié sont hollandaises. C'est pourquoi le prof parle de multinationale."
+  },
+  {
+    "id": "Q11-13",
+    "s": "s11",
+    "t": "vf",
+    "q": "À l'époque moderne, seuls les États absolutistes, comme la France et l'Espagne, se bâtissent de nouveaux empires coloniaux.",
+    "a": false,
+    "w": "Faux. Les Provinces-Unies sont une république et l'Angleterre un régime parlementaire, et pourtant toutes deux bâtissent des empires (la VOC en Asie, les colonies de peuplement d'Amérique du Nord). Peu importe le régime : l'État moderne centralisé, guidé par le mercantilisme, cherche des colonies. C'est le sens de la diapo « États modernes = nouveaux empires coloniaux »."
+  },
+  {
+    "id": "Q11-14",
+    "s": "s11",
+    "t": "courte",
+    "q": "Selon le prof, comment appelle-t-on la doctrine ou l'idéologie visant à promouvoir et mettre en place la colonisation ?",
+    "acc": ["colonialisme", "le colonialisme"],
+    "m": "Réponse modèle : le colonialisme. C'est l'idée qui justifie et encourage la colonisation, alors que la colonisation est l'action elle-même (peupler, exploiter, placer sous la dépendance d'une métropole).",
+    "k": ["colonialisme", "doctrine", "idéologie"]
+  },
+  {
+    "id": "Q11-15",
+    "s": "s11",
+    "t": "courte",
+    "q": "Contre quelle puissance européenne les Néerlandais se battent-ils à la bataille navale de Goa (1638-1639) pour reprendre ses routes commerciales vers l'Asie ?",
+    "acc": ["portugal", "le portugal", "portugais", "les portugais"],
+    "m": "Réponse modèle : le Portugal. Les Néerlandais reprennent les routes portugaises par la guerre, puis imitent les réflexes commerciaux des Portugais : colonie-comptoir, soumission aux lois locales, rôle d'intermédiaires.",
+    "k": ["Portugal", "Goa", "routes"]
+  },
+  {
+    "id": "Q11-16",
+    "s": "s11",
+    "t": "courte",
+    "q": "Dans quelle ville naît la première Bourse, créée pour répondre aux besoins de capital de la VOC ?",
+    "acc": ["amsterdam"],
+    "m": "Réponse modèle : Amsterdam. On y échange les actions de la VOC et on peut y emprunter à court terme à un taux bas, 3 %.",
+    "k": ["Amsterdam", "Bourse", "VOC"]
+  },
+  {
+    "id": "Q11-17",
+    "s": "s11",
+    "t": "courte",
+    "q": "Quelle ville d'Asie est le siège de la VOC ?",
+    "acc": ["batavia"],
+    "m": "Réponse modèle : Batavia. C'est le centre des colonies d'exploitation néerlandaises en Asie (complément : la ville est fondée en 1619).",
+    "k": ["Batavia", "siège", "VOC"]
+  },
+  {
+    "id": "Q11-18",
+    "s": "s11",
+    "t": "phrase",
+    "q": "Explique en une phrase la formule du prof « États modernes = nouveaux empires coloniaux » à partir de l'exemple néerlandais.",
+    "m": "L'État moderne néerlandais, guidé par le mercantilisme et privé d'or et d'argent, confie à la VOC le monopole des épices et des pouvoirs d'État (guerre, monnaie, justice) pour bâtir en Asie un empire commercial et colonial qui l'enrichit.",
+    "k": ["mercantilisme", "pas d'or ni d'argent", "VOC et son monopole", "empire colonial"]
+  },
+  {
+    "id": "Q11-19",
+    "s": "s11",
+    "t": "phrase",
+    "q": "Quel lien peux-tu faire entre la VOC et l'envol du capitalisme ?",
+    "m": "Pour financer des voyages longs (environ 160 jours), coûteux et risqués dont le profit peut prendre 2 ans, la VOC devient la première société par actions à capital fixe et fait naître la première Bourse, à Amsterdam, deux outils au cœur du capitalisme.",
+    "k": ["société par actions", "Bourse", "coûts ou risques", "capital"]
+  },
+  {
+    "id": "Q11-20",
+    "s": "s11",
+    "t": "phrase",
+    "q": "Quelle est la différence essentielle entre une colonie-comptoir et une colonie de peuplement ?",
+    "m": "La colonie-comptoir est un poste permanent d'échange dont le but est avant tout le commerce, avec peu de colons, alors que la colonie de peuplement envoie de nombreux colons occuper le territoire, notamment afin de contrôler un marché extérieur.",
+    "k": ["poste d'échange ou commerce", "nombreux colons", "marché extérieur"]
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "Q16-01",
+    "s": "s16",
+    "t": "qcm",
+    "q": "Pourquoi les châtiments infligés aux esclaves sont-ils souvent publics et « théâtraux » ?",
+    "o": [
+      "Parce que l'article 33 du Code noir exige que toute punition se fasse devant témoins",
+      "Pour produire un impact psychologique sur l'ensemble des esclaves et les dissuader de résister",
+      "Parce que les châtiments en privé étaient réservés aux engagés européens",
+      "Pour montrer aux autorités espagnoles que les Lois nouvelles de 1542 étaient respectées"
+    ],
+    "a": 1,
+    "w": "La terreur vise plus que la victime : en blessant en public, le maître envoie un message à tous (impact psychologique, dissuasion). Pense au tableau de Marc Verdier, « Le supplice du fouet » (1849), et aux masques, colliers et entraves. L'article 33 du Code noir punit de mort l'esclave qui frappe son maître; il ne parle pas de témoins. Les Lois nouvelles concernent les Autochtones de l'Amérique espagnole, et rien dans le cours ne réserve les châtiments privés aux engagés."
+  },
+  {
+    "id": "Q16-02",
+    "s": "s16",
+    "t": "qcm",
+    "q": "Pourquoi les maîtres imposent-ils une hiérarchie entre esclaves (field gang, esclaves des champs ou de maison, nés en Afrique ou « créoles ») ?",
+    "o": [
+      "Pour diviser les esclaves par une manipulation psychologique, afin qu'ils se surveillent entre eux au lieu de s'unir",
+      "Pour appliquer le système des castas, qui donnait des droits légaux différents à chaque groupe d'esclaves",
+      "Pour préparer les meilleurs esclaves à devenir engagés à la fin de leur service",
+      "Pour respecter l'article 12 du Code noir, qui classe les esclaves selon leur origine"
+    ],
+    "a": 0,
+    "w": "C'est une forme de contrôle par manipulation psychologique : en créant un groupe qui police les autres et en distinguant les esclaves selon leur fonction (champs ou maison) et leur origine (né en Afrique ou « créole »), le maître casse la solidarité, comme le font les séparations voulues lors des ventes. Les castas sont une hiérarchie de toute la société coloniale espagnole, pas une hiérarchie interne aux esclaves; l'esclave l'est à vie, il ne devient pas engagé; et l'article 12 porte sur le statut des enfants d'esclaves."
+  },
+  {
+    "id": "Q16-03",
+    "s": "s16",
+    "t": "courte",
+    "q": "Expression anglaise qui désigne, selon le cours, un groupe d'esclaves créé par le maître pour policer les autres.",
+    "acc": ["field gang", "le field gang", "fieldgang", "un field gang", "commandeurs", "les commandeurs", "commandeur"],
+    "m": "Réponse modèle : le field gang. C'est une hiérarchie imposée entre esclaves : confier la surveillance à certains esclaves divise le groupe et limite la solidarité (complément : en français, on parle des commandeurs).",
+    "k": ["field gang", "hiérarchie imposée", "policer les autres"]
+  },
+  {
+    "id": "Q16-04",
+    "s": "s16",
+    "t": "vf",
+    "q": "Changer le nom d'un esclave, pour lui donner le nom de son maître ou un surnom ridicule, est une mesure de déshumanisation.",
+    "a": true,
+    "w": "Vrai. Effacer le nom d'une personne, c'est nier son identité et la réduire à la « chose » de son maître. C'est une des mesures de contrôle vues en classe, avec la terreur, la hiérarchie imposée entre esclaves et le cadre légal."
+  },
+  {
+    "id": "Q16-05",
+    "s": "s16",
+    "t": "courte",
+    "q": "Nom du texte de loi de 1685, promulgué sous Louis XIV, qui encadre l'esclavage dans les colonies françaises.",
+    "acc": ["code noir", "le code noir"],
+    "m": "Réponse modèle : le Code noir. Il systématise les pratiques des maîtres pour plus d'efficacité et de rentabilité, et il affirme le pouvoir central du roi jusque dans les colonies.",
+    "k": ["Code noir", "1685", "Louis XIV"]
+  },
+  {
+    "id": "Q16-06",
+    "s": "s16",
+    "t": "qcm",
+    "q": "Que prévoit l'article 12 du Code noir ?",
+    "o": [
+      "Les esclaves de maîtres différents n'ont pas le droit de s'attrouper, sous peine du fouet et de la fleur de lys",
+      "L'esclave qui frappe son maître au visage ou avec effusion de sang est puni de mort",
+      "Les enfants nés de mariages entre esclaves sont esclaves et appartiennent au maître de la mère",
+      "Les enfants nés de mariages entre esclaves deviennent libres à leur majorité"
+    ],
+    "a": 2,
+    "w": "L'article 12 rend l'esclavage héréditaire : le statut passe aux enfants, et ceux-ci appartiennent au maître de la mère. C'est une logique de propriété : chaque naissance ajoute un bien au maître. L'interdiction de s'attrouper, c'est l'article 16; la peine de mort pour avoir frappé le maître, c'est l'article 33. Aucun article vu en classe ne libère les enfants."
+  },
+  {
+    "id": "Q16-07",
+    "s": "s16",
+    "t": "vf",
+    "q": "L'article 16 du Code noir interdit aux esclaves de maîtres différents de s'attrouper, sous peine du fouet et de la fleur de lys.",
+    "a": true,
+    "w": "Vrai. Le but est d'empêcher que des esclaves de plantations différentes se rencontrent, s'organisent et se révoltent : c'est la loi qui organise maintenant le contrôle (complément : la fleur de lys, marquée au fer sur la peau, est le symbole de la monarchie française; c'est l'État royal qui signe la punition)."
+  },
+  {
+    "id": "Q16-08",
+    "s": "s16",
+    "t": "vf",
+    "q": "Selon l'article 33 du Code noir, l'esclave qui frappe son maître au visage est puni du fouet.",
+    "a": false,
+    "w": "Faux : l'article 33 prévoit la mort pour l'esclave qui frappe son maître, sa maîtresse ou leurs enfants au visage ou avec effusion de sang. Le fouet et la fleur de lys sont la peine de l'article 16, pour les attroupements. La sévérité de l'article 33 montre que la loi protège le pouvoir du maître, pas la personne de l'esclave."
+  },
+  {
+    "id": "Q16-09",
+    "s": "s16",
+    "t": "courte",
+    "q": "Ministre de Louis XIV qui, selon le cours, a préparé le Code noir.",
+    "acc": ["colbert", "jean baptiste colbert", "jeanbaptiste colbert"],
+    "m": "Réponse modèle : Colbert. Qu'un ministre du roi prépare ce texte montre que l'État central encadre lui-même l'esclavage (complément : Colbert fonde aussi la manufacture de Saint-Gobain en 1665, et on parle de colbertisme pour sa politique mercantiliste).",
+    "k": ["Colbert", "ministre de Louis XIV", "État central"]
+  },
+  {
+    "id": "Q16-10",
+    "s": "s16",
+    "t": "qcm",
+    "q": "Quel lien le cours fait-il entre le Code noir et l'État moderne ?",
+    "o": [
+      "Le Code noir montre que le roi de France partage le pouvoir avec un Parlement, comme en Angleterre",
+      "Le Code noir est rédigé par la VOC, qui a le droit d'établir un système légal pour ses sujets",
+      "Le Code noir confie la justice aux seigneurs locaux des colonies, comme au temps de la féodalité",
+      "Le Code noir affirme le pouvoir central : le roi impose ses lois jusque dans les colonies (monopole de la justice, interventionnisme)"
+    ],
+    "a": 3,
+    "w": "Avec le Code noir, l'État fait ce qui définit l'État moderne : il unifie les lois et fixe lui-même les sanctions (monopole de la justice) et il intervient dans l'économie des plantations (interventionnisme). C'est l'inverse de la féodalité, où le pouvoir était divisé entre seigneurs. La France de Louis XIV est une monarchie absolue, pas un régime parlementaire, et la VOC est une compagnie néerlandaise active en Asie."
+  },
+  {
+    "id": "Q16-11",
+    "s": "s16",
+    "t": "qcm",
+    "q": "Le Code noir impose aussi certaines contraintes aux maîtres. Comment le cours les interprète-t-il ?",
+    "o": [
+      "Comme une question de gestion, pour l'efficacité et la rentabilité, et non comme une reconnaissance de droits humains",
+      "Comme la reconnaissance que les esclaves sont des êtres humains égaux aux colons",
+      "Comme une victoire des esclaves révoltés, comparable aux Lois nouvelles obtenues par Las Casas",
+      "Comme une première étape vers l'abolition de l'esclavage dans les colonies françaises"
+    ],
+    "a": 0,
+    "w": "Le Code noir systématise les pratiques pour plus d'efficacité et de rentabilité : s'il limite parfois les maîtres, c'est pour bien gérer une main-d'œuvre, pas par respect de la personne. Le même texte rend esclaves les enfants d'esclaves (art. 12) et punit de mort l'esclave qui frappe son maître (art. 33) : on est loin de l'égalité. Les Lois nouvelles de 1542 concernent les Autochtones, et le cours ne présente pas le Code noir comme un pas vers l'abolition."
+  },
+  {
+    "id": "Q16-12",
+    "s": "s16",
+    "t": "phrase",
+    "q": "Pourquoi le Code noir est-il un exemple de racisme systémique, et pas seulement de préjugés individuels ? Réponds en une phrase.",
+    "m": "Parce qu'il inscrit dans la loi de l'État un statut fondé sur l'équation noir = esclave (par exemple, l'article 12 rend esclaves les enfants d'esclaves), si bien que la couleur de peau devient un statut juridique et social qui s'impose à tous, peu importe les opinions de chacun.",
+    "k": ["inscrit dans la loi de l'État", "noir = esclave", "statut juridique et social", "article 12 (statut héréditaire)"]
+  },
+  {
+    "id": "Q16-13",
+    "s": "s16",
+    "t": "qcm",
+    "q": "Pourquoi le cours dit-il que l'esclavage atlantique est un « facteur causal » du racisme ?",
+    "o": [
+      "Parce que le racisme existait déjà sous sa forme actuelle, et l'esclavage n'a fait que l'utiliser",
+      "Parce que le racisme naît uniquement des stéréotypes diffusés au XXe siècle",
+      "Parce qu'il accélère et consolide le fait que la couleur de peau devient un statut social et juridique",
+      "Parce que les captifs africains apportent en Amérique la notion de pureté du sang"
+    ],
+    "a": 2,
+    "w": "L'esclavage atlantique ne profite pas seulement d'un racisme déjà là : il le renforce et le fixe, en faisant de la couleur de peau un statut social et juridique. Il prolonge l'héritage de la limpieza de sangre, une notion venue d'Espagne (pas d'Afrique) et d'abord religieuse. Les stéréotypes du XXe siècle (Aunt Jemima, la « Mammy ») sont un héritage de ce racisme, pas sa cause."
+  },
+  {
+    "id": "Q16-14",
+    "s": "s16",
+    "t": "courte",
+    "q": "Expression espagnole signifiant « pureté du sang », à l'origine de la cause historique du racisme.",
+    "acc": ["limpieza de sangre", "la limpieza de sangre", "limpieza", "purete du sang", "la purete du sang"],
+    "m": "Réponse modèle : la limpieza de sangre. En Espagne, elle visait la religion des ancêtres; dans les colonies espagnoles d'Amérique, elle s'applique au lieu de provenance et à la couleur de peau, ce qui donne le système des castas.",
+    "k": ["limpieza de sangre", "de la religion à la couleur de peau", "castas"]
+  },
+  {
+    "id": "Q16-15",
+    "s": "s16",
+    "t": "qcm",
+    "q": "Parmi les trois causes du racisme vues en classe, laquelle correspond à l'idée qu'avec l'augmentation du nombre de Noirs, il faut un système juridique pour les contrôler, d'où l'équation « noir = esclave, blanc = libre » ?",
+    "o": [
+      "La cause historique",
+      "La cause juridico-économique",
+      "La cause idéologique",
+      "La cause religieuse, liée à la Réforme"
+    ],
+    "a": 1,
+    "w": "C'est la cause juridico-économique : pour garder le contrôle d'une main-d'œuvre noire de plus en plus nombreuse, on construit un système juridique où la couleur de peau détermine le statut (le Code noir en est un exemple). La cause historique, c'est la pureté du sang appliquée à la couleur de peau dans les colonies espagnoles; la cause idéologique, c'est la justification (ils ne seraient pas humains, pas nos égaux). La Réforme ne fait pas partie des trois causes."
+  },
+  {
+    "id": "Q16-16",
+    "s": "s16",
+    "t": "phrase",
+    "q": "Quel lien peux-tu faire entre la limpieza de sangre, le système des castas et le racisme lié à l'esclavage ? Réponds en une phrase.",
+    "m": "La limpieza de sangre, qui visait d'abord la religion des ancêtres en Espagne, s'applique en Amérique au lieu de provenance et à la couleur de peau, ce qui crée la hiérarchie des castas (les Noirs tout en bas) et constitue la cause historique d'un racisme que l'esclavage atlantique accélère et consolide.",
+    "k": ["de la religion à la couleur de peau", "hiérarchie des castas", "cause historique du racisme", "l'esclavage accélère et consolide"]
+  },
+  {
+    "id": "Q16-17",
+    "s": "s16",
+    "t": "phrase",
+    "q": "Explique en une phrase en quoi consiste la cause idéologique du racisme.",
+    "m": "Pour « justifier l'injustifiable », on prétend que les Noirs ne seraient pas humains, n'auraient pas d'âme, ne seraient pas nos égaux et seraient destinés par leur « race » à ce travail, ce qui fait naître des stéréotypes raciaux.",
+    "k": ["justifier l'injustifiable", "pas humains, pas d'âme, pas égaux", "destinés au travail selon la « race »", "stéréotypes raciaux"]
+  },
+  {
+    "id": "Q16-18",
+    "s": "s16",
+    "t": "vf",
+    "q": "Les stéréotypes raciaux nés pour justifier l'esclavage disparaissent avec l'abolition, au XIXe siècle.",
+    "a": false,
+    "w": "Faux. Le cours montre qu'ils survivent jusqu'au XXe siècle : Aunt Jemima ou la « Mammy » d'Autant en emporte le vent. C'est pour cela qu'on parle d'un héritage de l'esclavage : le racisme systémique dure bien après la fin du système qui l'a produit."
+  }
+]

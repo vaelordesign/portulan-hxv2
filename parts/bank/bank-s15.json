@@ -1,0 +1,191 @@
+[
+  {
+    "id": "Q15-01",
+    "s": "s15",
+    "t": "qcm",
+    "q": "Quelle est la différence entre l'esclavage et l'esclavisation, selon les définitions du cours ?",
+    "o": [
+      "Aucune : ce sont deux synonymes pour désigner la traite atlantique",
+      "L'esclavage est un système (économique, juridique et social) où des individus deviennent la propriété d'autrui; l'esclavisation est le processus par lequel une personne libre acquiert le statut d'esclave",
+      "L'esclavage désigne la capture en Afrique; l'esclavisation désigne le travail sur les plantations d'Amérique",
+      "L'esclavage concerne les sociétés avec esclaves; l'esclavisation concerne seulement les sociétés esclavagistes"
+    ],
+    "a": 1,
+    "w": "Retiens la nuance : l'esclavage est un système, l'esclavisation est un processus, en six étapes (capture, vente, traversée, distribution, travail, contrôle). Parler d'esclavisation insiste sur le fait que le statut d'esclave est imposé à une personne libre par d'autres humains. Les deux mots ne sont donc pas synonymes; la capture et le travail ne sont que deux étapes du processus; et la distinction société avec esclaves / société esclavagiste porte sur la place de l'esclavage dans l'économie, pas sur ce vocabulaire."
+  },
+  {
+    "id": "Q15-02",
+    "s": "s15",
+    "t": "courte",
+    "q": "Terme que le prof définit comme le « processus par lequel une personne libre acquiert le statut d'esclave ».",
+    "acc": ["esclavisation", "l esclavisation"],
+    "m": "Réponse modèle : l'esclavisation. Le mot insiste sur le processus : le statut d'esclave est imposé, étape par étape, à une personne qui était libre.",
+    "k": ["esclavisation", "processus", "personne libre"]
+  },
+  {
+    "id": "Q15-03",
+    "s": "s15",
+    "t": "qcm",
+    "q": "Quel est le bon ordre des six étapes de l'esclavisation vues en classe ?",
+    "o": [
+      "Capture, traversée, vente, distribution, contrôle, travail",
+      "Vente, capture, traversée, travail, distribution, contrôle",
+      "Capture, vente, distribution, traversée, travail, contrôle",
+      "Capture, vente, traversée, distribution, travail, contrôle"
+    ],
+    "a": 3,
+    "w": "Suis le trajet de la personne : capturée en Afrique (1), vendue une première fois à des marchands européens (2), transportée à travers l'Atlantique, le passage du milieu (3), revendue en Amérique, la distribution (4), mise au travail (5), puis maintenue dans ce statut par le contrôle (6). Les autres ordres sont impossibles : on ne vend pas avant de capturer, la vente en Afrique précède forcément la traversée, et la distribution en Amérique ne peut venir qu'après celle-ci."
+  },
+  {
+    "id": "Q15-04",
+    "s": "s15",
+    "t": "vf",
+    "q": "La capture (étape 1) se fait partout de la même façon : des raids menés par des marchands européens à l'intérieur de l'Afrique.",
+    "a": false,
+    "w": "Faux. La capture se passe bien en Afrique, mais elle varie selon le contexte local : prisonniers de guerre, kidnapping. Les marchands européens interviennent surtout à l'étape suivante, la vente, quand des marchands africains leur vendent les captifs dans les colonies-comptoirs."
+  },
+  {
+    "id": "Q15-05",
+    "s": "s15",
+    "t": "vf",
+    "q": "Lors de la première vente, des marchands africains vendent les captifs à des marchands européens, dans des colonies-comptoirs comme Gorée.",
+    "a": true,
+    "w": "Vrai. C'est l'étape 2. L'individu y devient un objet, soumis à une logique marchande. Les acheteurs y font souvent une deuxième séparation, voulue, pour éviter la solidarité entre captifs : une violence psychologique qui s'ajoute à la violence physique."
+  },
+  {
+    "id": "Q15-06",
+    "s": "s15",
+    "t": "qcm",
+    "q": "À l'étape de la vente, le cours dit que « l'individu devient un objet ». Qu'est-ce que cela signifie ?",
+    "o": [
+      "La personne est traitée selon une logique marchande : on l'évalue, on l'achète et on la revend comme une marchandise",
+      "La personne devient la propriété de l'État, qui la prête ensuite aux colons",
+      "La personne signe un contrat qui fixe la durée de son service",
+      "La personne perd son nom et reçoit celui de son maître dès le départ du navire"
+    ],
+    "a": 0,
+    "w": "Dès la vente, la personne entre dans une logique marchande : c'est le côté « objet » du double statut de l'esclave (on peut l'acheter, le louer, le vendre). L'esclave appartient à un maître particulier, pas à l'État. Le contrat d'une durée limitée, c'est l'engagisme des Européens. Le changement de nom est bien une forme de déshumanisation, mais le cours le range dans l'étape du contrôle, pas dans celle de la vente."
+  },
+  {
+    "id": "Q15-07",
+    "s": "s15",
+    "t": "phrase",
+    "q": "Pourquoi les acheteurs séparent-ils volontairement les captifs, à la vente puis à la distribution ? Réponds en une phrase.",
+    "m": "Les acheteurs priorisent la séparation des captifs (proches, gens d'une même origine) pour empêcher la solidarité entre eux, qui pourrait mener à des résistances, ce qui ajoute une violence psychologique à la violence physique.",
+    "k": ["séparation voulue (priorisée par l'acheteur)", "éviter la solidarité entre captifs", "violence psychologique"]
+  },
+  {
+    "id": "Q15-08",
+    "s": "s15",
+    "t": "courte",
+    "q": "Nom donné à la traversée de l'Atlantique, 3e étape de l'esclavisation : « le passage du ... ».",
+    "acc": ["milieu", "du milieu", "passage du milieu", "le passage du milieu", "middle passage"],
+    "m": "Réponse modèle : le passage du milieu. C'est une traversée longue, pénible et dangereuse, dans des conditions effroyables, qui fait environ 1,8 million de morts.",
+    "k": ["passage du milieu", "traversée", "1,8 million de morts"]
+  },
+  {
+    "id": "Q15-09",
+    "s": "s15",
+    "t": "qcm",
+    "q": "Selon le cours, quel est le bilan humain du passage du milieu ?",
+    "o": [
+      "Environ 1,8 million de morts, soit 80 à 90 % des captifs embarqués",
+      "Environ 18 millions de morts, soit la moitié des captifs embarqués",
+      "Environ 1,8 million de morts, soit environ 15 % des captifs embarqués",
+      "Environ 180 000 morts, soit environ 1,5 % des captifs embarqués"
+    ],
+    "a": 2,
+    "w": "Le chiffre à retenir : 1,8 million de morts, environ 15 % des captifs embarqués. Ne confonds pas avec les 80 à 90 % de mortalité du choc microbien chez les Autochtones d'Amérique. 18 millions de morts supposeraient 36 millions de captifs, bien plus que les 10 à 20 millions de personnes déplacées dont parle le cours, et 180 000 sous-estime le bilan par un facteur dix."
+  },
+  {
+    "id": "Q15-10",
+    "s": "s15",
+    "t": "qcm",
+    "q": "En quoi la distribution (étape 4) se distingue-t-elle de la première vente (étape 2) ?",
+    "o": [
+      "Elle se fait à bord du navire, pendant la traversée, entre capitaines",
+      "Elle se passe en Amérique et c'est une vente spécialisée : l'acheteur cherche des caractéristiques précises pour des besoins précis, et elle peut se répéter",
+      "Elle se passe en Afrique, entre marchands africains et européens, dans les colonies-comptoirs",
+      "Elle réunit les familles séparées lors de la capture avant de les envoyer au travail"
+    ],
+    "a": 1,
+    "w": "La distribution ressemble à la vente, mais en Amérique (diapos : Charleston, Savannah). L'acheteur y choisit des personnes selon des caractéristiques précises, comme on choisit un outil : c'est une déshumanisation. Elle peut se répéter, et l'acheteur y priorise encore la séparation, donc elle ne réunit pas les familles. La vente entre marchands africains et européens dans les comptoirs, c'est l'étape 2."
+  },
+  {
+    "id": "Q15-11",
+    "s": "s15",
+    "t": "vf",
+    "q": "La distribution n'a lieu qu'une seule fois : une fois acheté en Amérique, l'esclave ne change plus de maître.",
+    "a": false,
+    "w": "Faux. Le cours précise que la distribution peut se répéter plusieurs fois : la personne peut être revendue, et chaque revente est une nouvelle occasion de séparation. Pense au sac d'Ashley : vendue à 9 ans en Caroline du Sud, elle n'a jamais revu sa mère."
+  },
+  {
+    "id": "Q15-12",
+    "s": "s15",
+    "t": "qcm",
+    "q": "Selon le cours, « la valeur de ce qui est extrait est plus grande que celle de l'esclave ». Quelle conséquence en découle pour les esclaves ?",
+    "o": [
+      "Les maîtres les ménagent pour qu'ils travaillent le plus longtemps possible",
+      "Ils peuvent racheter leur liberté grâce à la valeur de ce qu'ils produisent",
+      "Les maîtres leur préfèrent les engagés européens, jugés plus rentables",
+      "Les maîtres ont intérêt à les exploiter au maximum, même au prix de leur santé et de leur vie"
+    ],
+    "a": 3,
+    "w": "Si ce que l'esclave produit vaut plus que l'esclave lui-même, le maître calcule qu'il est « rentable » de l'épuiser : travail exténuant, incessant, optimisé pour la production, risques de blessures, et 10 à 20 % des esclaves meurent dès la première année. Le cours ne parle pas de rachat de liberté, et il explique l'inverse pour les engagés : c'est l'esclavage qui devient plus avantageux pour les colons."
+  },
+  {
+    "id": "Q15-13",
+    "s": "s15",
+    "t": "vf",
+    "q": "Environ la moitié des esclaves meurent dès leur première année de travail en Amérique.",
+    "a": false,
+    "w": "Faux : le cours donne 10 à 20 % de morts la première année. C'est énorme, mais ce n'est pas la moitié. Ne mélange pas non plus avec les 15 % de morts du passage du milieu (1,8 million de personnes)."
+  },
+  {
+    "id": "Q15-14",
+    "s": "s15",
+    "t": "courte",
+    "q": "Colonie française des Caraïbes que le cours présente comme la colonie la plus profitable de toutes les puissances européennes.",
+    "acc": ["saint domingue", "saintdomingue", "st domingue"],
+    "m": "Réponse modèle : Saint-Domingue. Cette colonie d'exploitation repose sur le travail des esclaves, ce qui en fait un exemple typique de société esclavagiste.",
+    "k": ["Saint-Domingue", "colonie d'exploitation", "la plus profitable"]
+  },
+  {
+    "id": "Q15-15",
+    "s": "s15",
+    "t": "qcm",
+    "q": "En 1770, 28 millions de litres de rhum sont exportés des Caraïbes vers les colonies d'Amérique du Nord. Qu'est-ce que ce chiffre permet de comprendre ?",
+    "o": [
+      "Que les produits du travail des esclaves circulent aussi d'une colonie d'Amérique à l'autre, et pas seulement vers l'Europe",
+      "Que les colonies anglaises d'Amérique du Nord sont des colonies-comptoirs vouées au commerce des épices",
+      "Que le rhum remplace l'argent de Potosí comme monnaie dans le Galion de Manille",
+      "Que la production de sucre recule dans les Caraïbes au profit du tabac"
+    ],
+    "a": 0,
+    "w": "Le rhum produit dans les Caraïbes (complément : il est tiré de la canne à sucre) part vers l'Amérique du Nord : c'est un exemple concret que « les routes se font dans toutes les directions », pas seulement en triangle vers l'Europe. Les colonies anglaises d'Amérique du Nord sont surtout des colonies de peuplement, et le commerce des épices concerne l'Asie (VOC). L'argent de Potosí reste au cœur du Galion de Manille, et rien n'indique un recul du sucre : la demande augmente."
+  },
+  {
+    "id": "Q15-16",
+    "s": "s15",
+    "t": "vf",
+    "q": "En Angleterre, la consommation moyenne de sucre par habitant passe de 2 kg en 1700 à 8 kg en 1809, soit quatre fois plus.",
+    "a": true,
+    "w": "Vrai : 2 kg en 1700, 3,6 kg en 1720, 5 kg en 1789, 8 kg en 1809. Retiens le sens du chiffre : la nouvelle consommation européenne fait grimper la demande, et le cours note que lorsque la demande augmente, le travail des esclaves augmente aussi."
+  },
+  {
+    "id": "Q15-17",
+    "s": "s15",
+    "t": "phrase",
+    "q": "Explique en une phrase pourquoi l'étape du travail relie l'esclavage à la mondialisation.",
+    "m": "Parce que le travail des esclaves, lié aux économies extractivistes et mercantiles des empires coloniaux, produit des marchandises comme le sucre et le rhum qui circulent vers l'Europe et l'Amérique du Nord, où la consommation augmente, ce qui intensifie encore le travail exigé des esclaves.",
+    "k": ["économies extractivistes et mercantiles des empires coloniaux", "sucre et rhum qui circulent", "consommation et demande en hausse", "travail intensifié"]
+  },
+  {
+    "id": "Q15-18",
+    "s": "s15",
+    "t": "phrase",
+    "q": "Pourquoi peut-on dire que l'esclavisation est un processus de déshumanisation ? Réponds en une phrase.",
+    "m": "Parce qu'à chaque étape, la personne libre est transformée en objet : vendue selon une logique marchande, transportée dans des conditions effroyables, choisie pour ses caractéristiques comme une marchandise, puis exploitée et contrôlée jusqu'à être traitée comme une « chose ».",
+    "k": ["une personne libre devient un objet", "logique marchande", "vente spécialisée selon des caractéristiques", "exploitation et contrôle"]
+  }
+]
